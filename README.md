@@ -8,9 +8,8 @@
 # KaseiCoinCrowdsale Compilation (1)
 <img width="1440" alt="Crowdsale 1 compilation" src="https://user-images.githubusercontent.com/107518702/200128188-2cdf66f3-8526-4e67-921b-7f864997e865.png">
 
-# KaseiCoinCrowdsale Compilatio
+# KaseiCoinCrowdsale Compilation (2)
 <img width="1440" alt="Crowdsale 2 compilation" src="https://user-images.githubusercontent.com/107518702/200128193-ca4aef84-40db-49d1-84b1-936ace9e0332.png">
-n (2)
 
 # Contract Deployment
 <img width="1440" alt="contract deployment" src="https://user-images.githubusercontent.com/107518702/200128253-ca3f3f97-a6ce-47e8-a479-92e811b27b13.png">
